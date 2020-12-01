@@ -1,0 +1,1 @@
+This one felt very simple uptill level 7 and then things got a bit complicated. I had to spend around two hours understanding Piping and Redirection. This task is the best one to get started with the UNIX commands and also to feel great when we acquire the key :) .
