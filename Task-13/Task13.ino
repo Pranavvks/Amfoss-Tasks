@@ -26,6 +26,7 @@ void loop () {
     tone(8,1000 ,200);
     digitalWrite(dir1 , LOW);
     digitalWrite(dir2 , LOW);
+    delay(1000);
     Serial.println("Warning ! : Motor will not work , distance limit out of bounds ");
    }
   
