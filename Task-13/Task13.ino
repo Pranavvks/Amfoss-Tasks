@@ -24,9 +24,9 @@ void loop () {
   if(distance_cm >= 0 &&  distance_cm<=100)
   {
     tone(8,1000 ,200);
+    delay(1000);
     digitalWrite(dir1 , LOW);
     digitalWrite(dir2 , LOW);
-    delay(1000);
     Serial.println("Warning ! : Motor will not work , distance limit out of bounds ");
    }
   
