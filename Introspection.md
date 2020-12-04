@@ -9,9 +9,9 @@
  
  That one was pretty long but I felt like sharing , currently after completing a few tasks and task-10 in particular I am more confident. **If choosen to be a member of the club I would certainly give in the time,effort,dedication and patience to match the club standards.**
  
-b)###I would love to get enrolled in some project which would keep me engaged and moreover find a project which gives me satisfaction in the work that I do.
+b)__I would love to get enrolled in some project which would keep me engaged and moreover find a project which gives me satisfaction in the work that I do.__
 
-c)##I will definintely contribute towards open source projects at a later stage after equipping myself with the tools required in order to do that.I would also be of great help to my forthcoming juniors.Even after my graduation , I hope to stay in touch with club members and also to help other club members. 
+c)__I will definintely contribute towards open source projects at a later stage after equipping myself with the tools required in order to do that.I would also be of great help to my forthcoming juniors.Even after my graduation , I hope to stay in touch with club members and also to help other club members__. 
 
-d)#It can't get better.I certainly believe the tasks were a kind of mini simulation of what it takes to be a great Computer engineer. It also felt the tasks were meant to teach us how to fish instead of handing over the fish to us.At first glance it might seem a bit overwhelming but once we start apporaching the tasks methodically it is doable.
+d)__It can't get better.I certainly believe the tasks were a kind of mini simulation of what it takes to be a great Computer engineer. It also felt the tasks were meant to teach us how to fish instead of handing over the fish to us.At first glance it might seem a bit overwhelming but once we start apporaching the tasks methodically it is doable__
 
